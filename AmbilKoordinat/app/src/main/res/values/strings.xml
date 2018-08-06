@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pemadam Kebakaran</string>
+    <string name="lbl_you_are_at">LOKASI ANDA SEKARANG</string>
+    <string name="btn_get_location">PERBARUI LOKASI</string>
+    <string name="btn_start_location_updates">KIRIM LAPORAN</string>
+    <string name="btn_stop_location_updates">STOP REKAM LOKASI</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
